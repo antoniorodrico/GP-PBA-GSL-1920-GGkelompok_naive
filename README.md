@@ -1,1 +1,0 @@
-# GP-PBA-GSL-1920-GGkelompok_naive
